@@ -16,6 +16,28 @@ A web-based Rental Management System developed using PHP, MySQL, HTML, CSS, Boot
 - Total income calculation
 - Pending bill tracking
 
+## Screenshots
+
+### Login Page
+
+![Login Page](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Tenant Management
+
+![Tenants](screenshots/tenants.png)
+
+### Generate Bill
+
+![Billing](screenshots/billing.png)
+
+### Payment History
+
+![Payments](screenshots/payments.png)
+
 ## Technologies Used
 
 - PHP
